@@ -1,6 +1,6 @@
 # gaussian mle
 
-<img align="center" src="https://github.com/arikanev/gaussian_mle/blob/master/Range.gif">
+<img align=center src="https://github.com/arikanev/gaussian_mle/blob/master/Range.gif">
 
 Code for visualizing the log of a Gaussian Probability Density Function, and finding it's mean and standard deviation with a from-scratch implemented maximum likelihood estimator. 
 
