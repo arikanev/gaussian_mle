@@ -8,7 +8,7 @@ The parameterized mu and sigma output from the MLE are verified by computing the
 <br></br>
 ![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/SampleVariance.gif)
 
-
+<br> </br>
 Probabilities displayed for all gaussian distributions where
 
 ![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/Range.gif)
