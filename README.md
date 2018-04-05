@@ -10,6 +10,6 @@ The parameterized mu and sigma output from the MLE are verified by computing the
 
 
 
-<p align="center"> Probabilities displayed for all gaussian distributions where </p> ![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/Range.gif)
+<p align="center"> Probabilities displayed for all gaussian distributions where </p>:![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/Range.gif)
 
 ![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/Log-Norm_sample.png)
