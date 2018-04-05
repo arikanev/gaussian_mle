@@ -4,13 +4,13 @@ Code for visualizing the log of a Gaussian Probability Density Function, and fin
 
 The parameterized mu and sigma output from the MLE are verified by computing the sample mean and sample variance in the following forms:
 
-![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/SampleMean.gif)
+<p align="center"> src="https://github.com/arikanev/gaussian_mle/blob/master/SampleMean.gif" </p>
+
 <br></br>
-![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/SampleVariance.gif)
+<p align="center"> src="https://github.com/arikanev/gaussian_mle/blob/master/SampleVariance.gif" </p>
 
 <br> </br>
-Probabilities displayed for all gaussian distributions where
+<p align="center"> Probabilities displayed for all gaussian distributions where </p>
+<p align="center"> src="https://github.com/arikanev/gaussian_mle/blob/master/Range.gif" </p>
 
-![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/Range.gif)
-
-![Alt text](https://github.com/arikanev/gaussian_mle/blob/master/Log-Norm_sample.png)
+<p align="center"> src="https://github.com/arikanev/gaussian_mle/blob/master/Log-Norm_sample.png" </p>
