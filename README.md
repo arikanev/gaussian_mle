@@ -3,4 +3,4 @@
 Code for testing and visualizing the argmax of a Gaussian PDF
 
 
-![Alt text](Log-Norm_Sample.png?raw=true "Title")
+![Alt text](https://raw.githubusercontent.com/arikanev/gaussian_mle/Log-Norm_sample.png)
