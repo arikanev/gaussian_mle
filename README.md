@@ -17,3 +17,7 @@ Where:
 ![](https://github.com/arikanev/gaussian_mle/blob/master/Range.gif)
 
 ![](https://github.com/arikanev/gaussian_mle/blob/master/Log-Norm_sample.png)
+
+<br></br>
+
+If running from command line you can parameterize the initial gaussian that MLE will be run against with -mu, and -sigma.
