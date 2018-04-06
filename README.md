@@ -10,7 +10,7 @@ The parameterized mu and sigma output from the MLE are verified by computing the
 ![](https://github.com/arikanev/gaussian_mle/blob/master/SampleVariance.gif)
 
 <br> </br>
-<p align="center"> Probabilities displayed for all gaussian distributions. </p>
+Probabilities displayed for all gaussian distributions.
 
 Where:
 
