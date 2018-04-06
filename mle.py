@@ -27,7 +27,7 @@ def argmax(x, mu, sigma):
     maxima = -10000000
     points = [[], []]
     for i, mu_param in enumerate(range(50, 0, -1)):
-        mu_param /= 10
+        mu_param /= 100
         for j, sigma_param in enumerate(range(50, 0, -1)):
             sigma_param /= 10
             print("Step {}".format((i+1) * (j+1)))
@@ -66,8 +66,10 @@ def maximum_likelihood_estimation(mu=0, sigma=0.1):
     plt.scatter([x for x in range(0, len(points[0]))], points[0], c=points[0])
     # ax1.title.set_text("Normal distribution")
     plt.title("Log-Normal distribution")
-    plt.annotate("(Sample mean {}, sample std_dev {}) & (predicted mean {}, predicted std_dev {})".format(mu_hat, sigma_hat, arg_mean, arg_sigma),
+    plt.annotate("(Sample mean {}, sample std_dev {})".format(mu_hat, sigma_hat),
                  (0, 0), (0, -20), xycoords='axes fraction', textcoords='offset points', va='top')
+    plt.annotate("(predicted mean {}, predicted std_dev {})".format(arg_mean, arg_sigma),
+                 (0, 0), (0, -28), xycoords='axes fraction', textcoords='offset points', va='top')
     plt.show()
 
 if __name__ == '__main__':
