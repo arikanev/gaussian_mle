@@ -16,7 +16,7 @@ Where:
 
 ![](https://github.com/arikanev/gaussian_mle/blob/master/Range.gif)
 
-![](https://github.com/arikanev/gaussian_mle/blob/master/Log-Norm_sampl.png)
+![](https://github.com/arikanev/gaussian_mle/blob/master/Log-Norm_sample.png)
 
 <br></br>
 
